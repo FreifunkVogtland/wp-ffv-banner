@@ -1,0 +1,30 @@
+.ffv-banner {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	padding: 0;
+	margin: 0 !important;
+}
+
+.ffv-banner-region {
+	position: relative;
+	padding-bottom: 32.407407407407%;
+	height: 0;
+}
+
+.ffv-banner-region > a {
+	position: absolute;
+	top:-32.407407407407%;
+	left:0;
+	width: 100%;
+	height: 100%
+}
+
+.ffv-banner-region > a > img {
+	display: block;
+	height: auto;
+	float: left;
+	width: 100%;
+	border: 0;
+	vertical-align: middle;
+}
